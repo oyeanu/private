@@ -1,12 +1,12 @@
 #!name=Spotify Premium
-#!desc=部分解锁premium,建议重新登录,音质不能设置为超高
+#!desc=Partially unlock premium, it is recommended to log in again, the sound quality cannot be set to ultra high
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 #!homepage=https://yfamily.ml
 #!author=app2smile
 
 /*
-Spotify非中文歌词翻译 需要iOS15 (仓库地址: https://github.com/app2smile/rules)
-采用百度翻译接口进行翻译,需要先免费申请百度翻译api的id和密钥
+Spotify non-Chinese lyrics translation requires iOS15 (warehouse address: https://github.com/app2smile/rules)
+To use Baidu Translation API for translation, you need to apply for the ID and key of Baidu Translation API for free first.
 
 -----------申请百度翻译(有标准版和高级版 建议申请高级版)api--------------
 标准版(很可能不够用):单次最长请求1000字符,免费调用量5万字符/月,QPS=1
